@@ -9,6 +9,6 @@ venv/
 .DS_Store
 
 # Generated files
-models/*.pkl
-results/*
-data/processed/*
+# models/*.pkl
+# results/*
+# data/processed/*

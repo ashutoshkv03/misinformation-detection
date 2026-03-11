@@ -1,0 +1,45 @@
+Top features indicating NON-RUMOR / TRUE class
+==================================================
+police assault: 7.2302
+banksy: 6.8917
+man critical: 6.7761
+banksys: 6.7427
+dead shooting: 6.5258
+pencil tribute: 6.0724
+robbery: 5.8505
+paris prosecutor: 5.8241
+anecdotal: 5.7780
+false alarm: 5.6760
+smear: 5.3746
+hebdo gunman: 5.3560
+paris photo: 5.2890
+foia: 5.2286
+official suspect: 5.1741
+likely killed: 5.0952
+police confirm: 5.0854
+riot gear: 5.0566
+trocadero: 5.0427
+shooting reported: 5.0350
+
+Top features indicating RUMOR / MISINFORMATION class
+==================================================
+shooting office: -5.7166
+paris brother: -5.4625
+explosion heard: -5.4053
+eh: -5.4051
+college monday: -5.3976
+reported killed: -5.3879
+blasphemy: -5.3641
+mayor: -5.3293
+identifies: -5.2600
+explosion: -5.1063
+blind: -4.9751
+live tweeted: -4.8609
+devastated: -4.8483
+next week: -4.8021
+ukip: -4.7914
+leaving: -4.7246
+black ppl: -4.6383
+armored: -4.6104
+partner: -4.5295
+hq paris: -4.3903
