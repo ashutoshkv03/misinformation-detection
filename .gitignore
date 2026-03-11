@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Mac files
+.DS_Store
+
+# Generated files
+models/*.pkl
+results/*
+data/processed/*
