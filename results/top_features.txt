@@ -1,45 +1,45 @@
 Top features indicating NON-RUMOR / TRUE class
 ==================================================
-police assault: 7.2302
-banksy: 6.8917
-man critical: 6.7761
-banksys: 6.7427
-dead shooting: 6.5258
-pencil tribute: 6.0724
-robbery: 5.8505
-paris prosecutor: 5.8241
-anecdotal: 5.7780
-false alarm: 5.6760
-smear: 5.3746
-hebdo gunman: 5.3560
-paris photo: 5.2890
-foia: 5.2286
-official suspect: 5.1741
-likely killed: 5.0952
-police confirm: 5.0854
-riot gear: 5.0566
-trocadero: 5.0427
-shooting reported: 5.0350
+cartoon: -1.2092
+explosion: -1.1282
+protest: -1.0319
+solidarity: -1.0240
+mayor: -1.0229
+blasphemy: -0.9580
+silence: -0.9493
+protester: -0.9476
+group: -0.9351
+satire: -0.9320
+yesterday: -0.9259
+protestors: -0.9183
+condemn: -0.9083
+eh: -0.8676
+liberal: -0.8561
+unarmed black: -0.8506
+blind: -0.8505
+response: -0.8193
+leaving: -0.8189
+cartoonist: -0.8139
 
 Top features indicating RUMOR / MISINFORMATION class
 ==================================================
-shooting office: -5.7166
-paris brother: -5.4625
-explosion heard: -5.4053
-eh: -5.4051
-college monday: -5.3976
-reported killed: -5.3879
-blasphemy: -5.3641
-mayor: -5.3293
-identifies: -5.2600
-explosion: -5.1063
-blind: -4.9751
-live tweeted: -4.8609
-devastated: -4.8483
-next week: -4.8021
-ukip: -4.7914
-leaving: -4.7246
-black ppl: -4.6383
-armored: -4.6104
-partner: -4.5295
-hq paris: -4.3903
+banksy: 1.8671
+robbery: 1.7120
+hostage: 1.3829
+banksys: 1.2071
+suspect: 1.0865
+smear: 1.0444
+cigar: 1.0303
+martyr: 1.0182
+invitation: 0.9616
+injured: 0.9543
+insurance: 0.9540
+fawkes: 0.9470
+moslem: 0.9421
+cabu: 0.9375
+belga: 0.9287
+violence amp: 0.9275
+kosher: 0.9012
+pd: 0.8920
+lynch: 0.8905
+wilson: 0.8863

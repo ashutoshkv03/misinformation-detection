@@ -27,7 +27,8 @@ def preprocess_data(
     df["label"] = df["is_rumor"].astype(int)
     df["cleaned_text"] = df["text"].apply(clean_text)
 
-    df = df[df["cleaned_text"].str.strip() != ""].reset_index(drop=True)
+    df = df[df["cleaned_text"].str.strip() != ""]
+    df = df.drop_duplicates(subset=["cleaned_text"]).reset_index(drop=True)
 
     ensure_dir("data/processed")
     df.to_csv(output_path, index=False)

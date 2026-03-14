@@ -1,6 +1,10 @@
-pandas
 numpy
+pandas
 scikit-learn
-matplotlib
-joblib
 nltk
+joblib
+matplotlib
+seaborn
+tqdm
+jupyter
+ipykernel

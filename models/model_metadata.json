@@ -1,0 +1,54 @@
+{
+    "selected_model": "linear_svm",
+    "best_cv_f1": 0.4809,
+    "best_params": {
+        "clf__C": 0.1,
+        "tfidf__max_features": 7000,
+        "tfidf__min_df": 2,
+        "tfidf__ngram_range": [
+            1,
+            2
+        ]
+    },
+    "all_model_results": [
+        {
+            "model": "logistic_regression",
+            "best_cv_f1": 0.4808,
+            "best_params": {
+                "clf__C": 1.0,
+                "tfidf__max_features": 7000,
+                "tfidf__min_df": 3,
+                "tfidf__ngram_range": [
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "model": "naive_bayes",
+            "best_cv_f1": 0.3926,
+            "best_params": {
+                "clf__alpha": 0.1,
+                "tfidf__max_features": 7000,
+                "tfidf__min_df": 3,
+                "tfidf__ngram_range": [
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "model": "linear_svm",
+            "best_cv_f1": 0.4809,
+            "best_params": {
+                "clf__C": 0.1,
+                "tfidf__max_features": 7000,
+                "tfidf__min_df": 2,
+                "tfidf__ngram_range": [
+                    1,
+                    2
+                ]
+            }
+        }
+    ]
+}
