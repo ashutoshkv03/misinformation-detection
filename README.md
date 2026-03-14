@@ -202,7 +202,7 @@ The metadata file stores:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ashutoshkv03/misinformation-detection.git
 cd misinfo_detection
 ```
 
@@ -269,6 +269,6 @@ Potential extensions for this project include:
 
 # Author
 
-Venkata Ashutosh Kande
-Master's in Computer Science
+Venkata Ashutosh Kande, 
+Master's in Computer Science, 
 Santa Clara University
